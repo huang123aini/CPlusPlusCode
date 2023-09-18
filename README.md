@@ -12,3 +12,21 @@ https://zhuanlan.zhihu.com/p/603575943
 
 本地测试代码： class_default_functions
 
+
+
+Lambda表达式 
+
+本地测试代码： lambda
+
+
+static关键字
+
+本地测试代码：static
+
+
+const关键字
+本地测试代码：keywords
+
+
+
+
