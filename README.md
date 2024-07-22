@@ -2,7 +2,8 @@
  * @Author: huang123aini aiya123aini@163.com
  * @Date: 2024-05-29 10:28:57
  * @LastEditors: huang123aini aiya123aini@163.com
- * @LastEditTime: 2024-07-22 15:31:50
+ * @LastEditTime: 2024-07-22 15:33:33
+
  * @FilePath: /CPlusPlusCode/README.md
 -->
 
@@ -40,8 +41,8 @@ chapter07: c++空类占用一个字节
 
 chapter08: c++普通成员函数
 
-chapter09: c++多重继承的虚函数表&内存布局
 
+chapter09: c++多重继承的虚函数表&内存布局
 
 
 
